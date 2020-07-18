@@ -1,0 +1,11 @@
+C:\Devs\Conexia\Conexia\Conexia.Service\bin\Debug\netcoreapp3.1\Conexia.Service.deps.json
+C:\Devs\Conexia\Conexia\Conexia.Service\bin\Debug\netcoreapp3.1\Conexia.Service.dll
+C:\Devs\Conexia\Conexia\Conexia.Service\bin\Debug\netcoreapp3.1\Conexia.Service.pdb
+C:\Devs\Conexia\Conexia\Conexia.Service\bin\Debug\netcoreapp3.1\Conexia.Domain.dll
+C:\Devs\Conexia\Conexia\Conexia.Service\bin\Debug\netcoreapp3.1\Conexia.Domain.pdb
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.csprojAssemblyReference.cache
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.AssemblyInfoInputs.cache
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.AssemblyInfo.cs
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.csproj.CopyComplete
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.dll
+C:\Devs\Conexia\Conexia\Conexia.Service\obj\Debug\netcoreapp3.1\Conexia.Service.pdb

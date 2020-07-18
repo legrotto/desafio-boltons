@@ -1,0 +1,13 @@
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.deps.json
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.runtimeconfig.json
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.runtimeconfig.dev.json
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.dll
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Domain.dll
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\bin\Debug\netcoreapp3.1\Conexia.Domain.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.csprojAssemblyReference.cache
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.AssemblyInfoInputs.cache
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.AssemblyInfo.cs
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.csproj.CopyComplete
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.dll
+C:\Devs\Conexia\Conexia\Conexia.Infa.Data\obj\Debug\netcoreapp3.1\Conexia.Infa.Data.pdb

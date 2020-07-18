@@ -1,0 +1,17 @@
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.deps.json
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.runtimeconfig.json
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.runtimeconfig.dev.json
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.dll
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Domain.dll
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.dll
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Service.dll
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Infa.Data.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Service.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Conexia.Domain.pdb
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.AssemblyInfo.cs
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.csproj.CopyComplete
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.dll
+C:\Devs\Conexia\Conexia\Conexia.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Conexia.Infra.CrossCutting.pdb
